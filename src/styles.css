@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+.allSides
+{
+    width: 96%;
+    height: 503px;
+    border: solid 1px white;
+    background-color: white;
+    margin: 2% 2% 0% 2%;
+    box-shadow:  0 0 10px  rgba(0,0,0,0.6);
+    -moz-box-shadow: 0 0 10px  rgba(0,0,0,0.6);
+    -webkit-box-shadow: 0 0 10px  rgba(0,0,0,0.6);
+    -o-box-shadow: 0 0 10px  rgba(0,0,0,0.6);
+    padding-top: 5rem;
+}
